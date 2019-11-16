@@ -1,0 +1,171 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "title": "H5流量追踪",
+      "time": "过去七日",
+      "showUtils": true,
+      "options": {
+        "type": "number",
+        "coreData": 4639266,
+        "changeData": 8878,
+        "changePercentage": 56.8
+      },
+      "params": "{width: 6,height: 3}"
+    }, {
+      "id": 2,
+      "title": "微信流量追踪",
+      "time": "过去七日",
+      "showUtils": false,
+      "options": {
+        "type": "number",
+        "coreData": 9950960,
+        "changeData": -1573,
+        "changePercentage": -14.8
+      },
+      "params": "{width: 6,height: 3}"
+    }, {
+      "id": 3,
+      "title": "App流量追踪",
+      "time": "过去七日",
+      "showUtils": false,
+      "options": {
+        "type": "number",
+        "coreData": 170910,
+        "changeData": 3478,
+        "changePercentage": 28.9
+      },
+      "params": "{width: 6,height: 3}"
+    }, {
+      "id": 4,
+      "title": "小程序流量追踪",
+      "time": "过去七日",
+      "showUtils": false,
+      "options": {
+        "type": "number",
+        "coreData": 224786,
+        "changeData": -4666,
+        "changePercentage":-36.8
+      },
+      "params": "{width: 6,height: 3}"
+    }, {
+      "id": 5,
+      "title": "小程序流量追踪",
+      "time": "过去七日，按日",
+      "options": {
+        "type": "line",
+        "xAxisData": ["10-1", "10-2", "10-3", "10-4", "10-5", "10-6", "10-7","10-8", "10-9", "10-10"],
+        "series": [{
+          "type": "line",
+          "name": "小程序UV",
+          "data": [110, 100, 90, 50, 50, 80, 70, 70, 60, 70]
+        }, {
+          "type": "line",
+          "name": "小程序PV",
+          "data": [210, 200, 190, 150, 150, 180, 170, 170, 160, 170]
+        }]
+      }
+    }, {
+      "id": 6,
+      "title": "小程序流量追踪饼状图",
+      "time": "过去七日",
+      "options": {
+        "name": "访问来源",
+        "type": "pie",
+        "radius": "55%",
+        "data":[
+          {
+            "value":235,
+            "name":"加入购物车门店去重数/南京"
+          },
+          {
+            "value":274,
+            "name":"日活/南京/平谷区"
+          },
+          {
+            "value":500,
+            "name":"日活/北京/ios日活/北京"
+          }
+        ]
+      },
+      "showUtils": false,
+      "params": "{width: 6, height: 3}"
+    }, {
+      "id": 7,
+      "title": "小程序流量追踪",
+      "time": "过去七日，按日",
+      "options": {
+        "type": "line",
+        "xAxisData": ["10-1", "10-2", "10-3", "10-4", "10-5", "10-6", "10-7","10-8", "10-9", "10-10"],
+        "series": [{
+          "type": "line",
+          "name": "小程序UV",
+          "data": [110, 100, 90, 50, 50, 80, 70, 70, 60, 70]
+        }, {
+          "type": "line",
+          "name": "小程序PV",
+          "data": [210, 200, 190, 150, 150, 180, 170, 170, 160, 170]
+        }]
+      }
+    }, {
+      "id": 8,
+      "title": "小程序流量追踪",
+      "time": "过去七日，按日",
+      "options": {
+        "type": "line",
+        "xAxisData": ["10-1", "10-2", "10-3", "10-4", "10-5", "10-6", "10-7","10-8", "10-9", "10-10"],
+        "series": [{
+          "type": "line",
+          "name": "小程序UV",
+          "data": [110, 100, 90, 50, 50, 80, 70, 70, 60, 70]
+        }, {
+          "type": "line",
+          "name": "小程序PV",
+          "data": [210, 200, 190, 150, 150, 180, 170, 170, 160, 170]
+        }]
+      }
+    }, {
+      "id": 9,
+      "title": "小程序流量追踪",
+      "time": "过去七日，按日",
+      "options": {
+        "type": "line",
+        "xAxisData": ["10-1", "10-2", "10-3", "10-4", "10-5", "10-6", "10-7","10-8", "10-9", "10-10"],
+        "series": [{
+          "type": "line",
+          "name": "小程序UV",
+          "data": [110, 100, 90, 50, 50, 80, 70, 70, 60, 70]
+        }, {
+          "type": "line",
+          "name": "小程序PV",
+          "data": [210, 200, 190, 150, 150, 180, 170, 170, 160, 170]
+        }]
+      }
+    }, {
+      "id": 10,
+      "title": "小程序流量追踪饼状图",
+      "time": "过去七日",
+      "options": {
+        "name": "访问来源",
+        "type": "pie",
+        "radius": "55%",
+        "data":[
+          {
+            "value":235,
+            "name":"加入购物车门店去重数/南京"
+          },
+          {
+            "value":274,
+            "name":"日活/南京/平谷区"
+          },
+          {
+            "value":500,
+            "name":"日活/北京/ios日活/北京"
+          }
+        ]
+      },
+      "showUtils": false,
+      "params": "{width: 6, height: 3}"
+    }
+  ]
+}

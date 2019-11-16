@@ -1,0 +1,128 @@
+
+[
+  {
+    "id": 1,
+    "name": "南京大区数据",
+    "catrgory": "我的运营看板",
+    "author": "张三",
+    "charts": [
+      {
+        "id": 1,
+        "index": 3
+      },
+      {
+        "id": 2,
+        "index": 1
+      },
+      {
+        "id": 3,
+        "index": 2
+      },
+      {
+        "id": 4,
+        "index": 2
+      },
+      {
+        "id": 5,
+        "index": 2
+      },
+      {
+        "id": 6,
+        "index": 2
+      },
+      {
+        "id": 7,
+        "index": 2
+      },
+      {
+        "id": 8,
+        "index": 2
+      },
+      {
+        "id": 9,
+        "index": 2
+      },
+      {
+        "id": 10,
+        "index": 2
+      }
+    ]
+  },{
+    "id": 2,
+    "name": "北京大区运营数据",
+    "catrgory": "我的运营看板",
+    "author": "王五",
+    "charts": [
+      {
+        "id": 1,
+        "index": 3
+      },
+      {
+        "id": 2,
+        "index": 1
+      },
+      {
+        "id": 3,
+        "index": 2
+      },
+      {
+        "id": 5,
+        "index": 2
+      },
+      {
+        "id": 10,
+        "index": 2
+      }
+    ]
+  },{
+    "id": 3,
+    "name": "重庆大区数据",
+    "catrgory": "我的其他看板",
+    "author": "王五",
+    "charts": [
+      {
+        "id": 1,
+        "index": 3
+      },
+      {
+        "id": 4,
+        "index": 1
+      },
+      {
+        "id": 6,
+        "index": 2
+      },
+      {
+        "id": 8,
+        "index": 2
+      },
+      {
+        "id": 5,
+        "index": 2
+      },
+      {
+        "id": 3,
+        "index": 2
+      }
+    ]
+  },{
+    "id": 4,
+    "name": "浙江大区运营数据",
+    "catrgory": "我的其他看板",
+    "author": "王五",
+    "charts": [
+      {
+        "id": 1,
+        "index": 3
+      },
+      {
+        "id": 4,
+        "index": 1
+      },
+      {
+        "id": 3,
+        "index": 2
+      }
+    ]
+  }
+]

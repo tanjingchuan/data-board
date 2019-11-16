@@ -1,0 +1,74 @@
+{
+  "chart": [
+    {
+      "id": 1,
+      "type": "line",
+      "title": "H5流量追踪",
+      "time": "过去七日",
+      "params": "{width: 6,height: 3}"
+    },
+    {
+      "id": 2,
+      "type": "line",
+      "title": "微信流量追踪",
+      "time": "过去七日",
+      "params": "{width: 6,height: 3}"
+    },
+    {
+      "id": 3,
+      "type": "line",
+      "title": "App流量追踪",
+      "time": "过去七日",
+      "params": "{width: 6,height: 3}"
+    },
+    {
+      "id": 4,
+      "type": "line",
+      "title": "小程序流量追踪",
+      "time": "过去七日",
+      "params": "{width: 6,height: 3}"
+    },
+    {
+      "id": 5,
+      "type": "line",
+      "title": "小程序流量追踪",
+      "time": "过去七日",
+      "params": "{width: 6,height: 3}"
+    },
+    {
+      "id": 6,
+      "type": "line",
+      "title": "小程序流量追踪饼状图",
+      "time": "过去七日",
+      "params": "{width: 6,height: 3}"
+    },
+    {
+      "id": 7,
+      "type": "line",
+      "title": "小程序流量追踪",
+      "time": "过去七日",
+      "params": "{width: 6,height: 3}"
+    },
+    {
+      "id": 8,
+      "type": "line",
+      "title": "小程序流量追踪",
+      "time": "过去七日",
+      "params": "{width: 6,height: 3}"
+    },
+    {
+      "id": 9,
+      "type": "line",
+      "title": "小程序流量追踪",
+      "time": "过去七日",
+      "params": "{width: 6,height: 3}"
+    },
+    {
+      "id": 10,
+      "type": "line",
+      "title": "小程序流量追踪饼状图",
+      "time": "过去七日",
+      "params": "{width: 6,height: 3}"
+    }
+  ]
+}
